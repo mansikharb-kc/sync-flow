@@ -1,0 +1,24 @@
+﻿[dotenv@17.3.1] injecting env (19) from server\.env -- tip: ≡ƒöÉ prevent building .env in docker: https://dotenvx.com/prebuild
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ≡ƒöä add secrets lifecycle management: https://dotenvx.com/ops
+Fetching data for: "Brand Leads"
+Sample Row: [
+  "l:818567374123603",
+  "2025-11-15T16:12:55+05:30",
+  "ag:120235366332280373",
+  "stone & marble",
+  "as:120235366332270373",
+  "stone_&_marble_31-oct-25",
+  "c:120222742549390373",
+  "BRAND - Lead Generation",
+  "f:1432739827774951",
+  "Lead generation Brands",
+  "false",
+  "fb",
+  "MAHAVEER GRANITE INDUSTRIES",
+  "mahaveerinfocom@gmail.com",
+  "p:+919845435461",
+  "Owner",
+  "Deepak Sharma",
+  "CREATED",
+  "Call done : he will send his gteam member at KC in some days then decide"
+]

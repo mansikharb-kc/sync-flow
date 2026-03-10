@@ -1,0 +1,5 @@
+﻿[dotenv@17.3.1] injecting env (19) from server\.env -- tip: ≡ƒöÉ prevent building .env in docker: https://dotenvx.com/prebuild
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ΓÜÖ∩╕Å  override existing env vars with { override: true }
+Searching for record l:1005281895111800 in: "Database Brands & Architetcs "
+Headers: ["id","created_time","ad_id","ad_name","adset_id","adset_name","campaign_id","campaign_name","form_id","form_name","is_organic","platform","full_name","phone","email","lead_status","Lead Quality / Remarks"]
+Found Row: ["l:1005281895111800","2025-11-10T06:25:03+05:30","ag:120235804784550373","img_brand_visibility","as:120235803266350373","brand_showcase/visibility/launch","c:120235730497890373","Lead_Database_07-nov-2025","f:2750603111776825","Database_brands&architects_07-nov-2025","false","fb","Sangay Dubo","p:+919593788277","","CREATED"]

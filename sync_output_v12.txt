@@ -1,0 +1,94 @@
+﻿[dotenv@17.3.1] injecting env (19) from server\.env -- tip: ≡ƒöÉ prevent committing .env to code: https://dotenvx.com/precommit
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ≡ƒöÉ prevent committing .env to code: https://dotenvx.com/precommit
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ≡ƒöÉ encrypt with Dotenvx: https://dotenvx.com
+≡ƒôí Initializing Pool with connectionString length: 115
+≡ƒùæ∩╕Å Dropping and cleaning tables: leads, crm_leads, crm_records, deleted_leads...
+Γ£à Table "leads" dropped.
+Γ£à Table "crm_leads" dropped.
+Γ£à Table "crm_records" dropped.
+Γ£à Table "deleted_leads" dropped.
+
+≡ƒÜÇ Starting fresh synchronization into "leads" table...
+≡ƒöÆ Starting Sync. Trigger: CLEAN_START
+[Sync] Sheet "All  Stakeholders": Found 331 raw rows, 331 mapped leads.
+[Sync] Sheet "All Stakeholders 2": Found 22 raw rows, 22 mapped leads.
+Γ£à Synced All  Stakeholders: 331 new/updated records.
+Γ£à Synced All Stakeholders 2: 22 new/updated records.
+[Sync] Sheet "66K Data testing (Jan, Feb)": Found 1678 raw rows, 1678 mapped leads.
+Γ£à Synced 66K Data testing (Jan, Feb): 1678 new/updated records.
+[Sync] Sheet "66K Data testing (Nov, Dec) ": Found 344 raw rows, 344 mapped leads.
+Γ£à Synced 66K Data testing (Nov, Dec) : 344 new/updated records.
+[Sync] Sheet "Students NCR": Found 96 raw rows, 96 mapped leads.
+[Sync] Sheet "Students & Architects ": Found 236 raw rows, 236 mapped leads.
+Γ£à Synced Students NCR: 96 new/updated records.
+Γ£à Synced Students & Architects : 236 new/updated records.
+[Sync] Sheet "Brand Lead New": Found 104 raw rows, 104 mapped leads.
+[Sync] Sheet "Brand Leads": Found 1565 raw rows, 1561 mapped leads.
+Γ£à Synced Brand Lead New: 104 new/updated records.
+Γ£à Synced Brand Leads: 1561 new/updated records.
+[Sync] Sheet "Old brand leads": Found 3 raw rows, 3 mapped leads.
+[Sync] Sheet "Are you a Brand ": Found 1 raw rows, 1 mapped leads.
+Γ£à Synced Old brand leads: 3 new/updated records.
+Γ£à Synced Are you a Brand : 1 new/updated records.
+[Sync] Sheet "11 Event Architects & Designers ": Found 61 raw rows, 61 mapped leads.
+Γ£à Synced 11 Event Architects & Designers : 61 new/updated records.
+[Sync] Sheet "Database Brands & Architetcs ": Found 709 raw rows, 709 mapped leads.
+Γ£à Synced Database Brands & Architetcs : 709 new/updated records.
+[Sync] Sheet "AceTech Lead": Found 24 raw rows, 24 mapped leads.
+[Sync] Sheet "Architects & Designer INDIA": Found 22 raw rows, 22 mapped leads.
+Γ£à Synced Architects & Designer INDIA: 22 new/updated records.
+Γ£à Synced AceTech Lead: 24 new/updated records.
+[Sync] Sheet "Catelogue Library NCR - Architects & Designers": Found 6 raw rows, 6 mapped leads.
+Γ£à Synced Catelogue Library NCR - Architects & Designers: 6 new/updated records.
+[Sync] Sheet "Architects & Designers INDIA 2 ": Found 89 raw rows, 89 mapped leads.
+Γ£à Synced Architects & Designers INDIA 2 : 89 new/updated records.
+[Sync] Sheet "Immersive hub NCR - Architects & Designers": Found 26 raw rows, 26 mapped leads.
+[Sync] Sheet "Co-working Space NCR - Architects & Designers ": Found 7 raw rows, 7 mapped leads.
+Γ£à Synced Immersive hub NCR - Architects & Designers: 26 new/updated records.
+Γ£à Synced Co-working Space NCR - Architects & Designers : 7 new/updated records.
+[Sync] Sheet "Brand & Architects - INDIA (Immersive Hub)": Found 13 raw rows, 13 mapped leads.
+[Sync] Sheet "Students NCR 2": Found 13 raw rows, 13 mapped leads.
+Γ£à Synced Students NCR 2: 13 new/updated records.
+Γ£à Synced Brand & Architects - INDIA (Immersive Hub): 13 new/updated records.
+[Sync] Sheet "Immersive Hub - Brands (NCR)": Found 300 raw rows, 265 mapped leads.
+[Sync] Sheet "Catalogue Library - Brands (NCR) ": Found 581 raw rows, 581 mapped leads.
+Γ£à Synced Catalogue Library - Brands (NCR) : 581 new/updated records.
+Γ£à Synced Immersive Hub - Brands (NCR): 265 new/updated records.
+[Sync] Sheet "Immersive hub category wise - Brands NCR ": Found 378 raw rows, 378 mapped leads.
+[Sync] Sheet "IH - Tiles Brands (Morbi, GJ)": Found 4 raw rows, 4 mapped leads.
+Γ£à Synced Immersive hub category wise - Brands NCR : 378 new/updated records.
+Γ£à Synced IH - Tiles Brands (Morbi, GJ): 4 new/updated records.
+[Sync] Sheet "Brand Generic INDIA": Found 29 raw rows, 29 mapped leads.
+Γ£à Synced Brand Generic INDIA: 29 new/updated records.
+≡ƒöô Sync Finished.
+
+≡ƒôè Sync Complete!
+ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+Γöé (index) Γöé Sheet                                            Γöé Status    Γöé Inserted Γöé Found Γöé
+Γö£ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöñ
+Γöé 0       Γöé 'All  Stakeholders'                              Γöé 'SUCCESS' Γöé 331      Γöé 331   Γöé
+Γöé 1       Γöé 'All Stakeholders 2'                             Γöé 'SUCCESS' Γöé 22       Γöé 22    Γöé
+Γöé 2       Γöé '66K Data testing (Nov, Dec) '                   Γöé 'SUCCESS' Γöé 344      Γöé 344   Γöé
+Γöé 3       Γöé '66K Data testing (Jan, Feb)'                    Γöé 'SUCCESS' Γöé 1678     Γöé 1678  Γöé
+Γöé 4       Γöé 'Students & Architects '                         Γöé 'SUCCESS' Γöé 236      Γöé 236   Γöé
+Γöé 5       Γöé 'Students NCR'                                   Γöé 'SUCCESS' Γöé 96       Γöé 96    Γöé
+Γöé 6       Γöé 'Brand Lead New'                                 Γöé 'SUCCESS' Γöé 104      Γöé 104   Γöé
+Γöé 7       Γöé 'Brand Leads'                                    Γöé 'SUCCESS' Γöé 1561     Γöé 1561  Γöé
+Γöé 8       Γöé 'Old brand leads'                                Γöé 'SUCCESS' Γöé 3        Γöé 3     Γöé
+Γöé 9       Γöé 'Are you a Brand '                               Γöé 'SUCCESS' Γöé 1        Γöé 1     Γöé
+Γöé 10      Γöé '11 Event Architects & Designers '               Γöé 'SUCCESS' Γöé 61       Γöé 61    Γöé
+Γöé 11      Γöé 'Database Brands & Architetcs '                  Γöé 'SUCCESS' Γöé 709      Γöé 709   Γöé
+Γöé 12      Γöé 'AceTech Lead'                                   Γöé 'SUCCESS' Γöé 24       Γöé 24    Γöé
+Γöé 13      Γöé 'Architects & Designer INDIA'                    Γöé 'SUCCESS' Γöé 22       Γöé 22    Γöé
+Γöé 14      Γöé 'Architects & Designers INDIA 2 '                Γöé 'SUCCESS' Γöé 89       Γöé 89    Γöé
+Γöé 15      Γöé 'Catelogue Library NCR - Architects & Designers' Γöé 'SUCCESS' Γöé 6        Γöé 6     Γöé
+Γöé 16      Γöé 'Immersive hub NCR - Architects & Designers'     Γöé 'SUCCESS' Γöé 26       Γöé 26    Γöé
+Γöé 17      Γöé 'Co-working Space NCR - Architects & Designers ' Γöé 'SUCCESS' Γöé 7        Γöé 7     Γöé
+Γöé 18      Γöé 'Students NCR 2'                                 Γöé 'SUCCESS' Γöé 13       Γöé 13    Γöé
+Γöé 19      Γöé 'Brand & Architects - INDIA (Immersive Hub)'     Γöé 'SUCCESS' Γöé 13       Γöé 13    Γöé
+Γöé 20      Γöé 'Catalogue Library - Brands (NCR) '              Γöé 'SUCCESS' Γöé 581      Γöé 581   Γöé
+Γöé 21      Γöé 'Immersive Hub - Brands (NCR)'                   Γöé 'SUCCESS' Γöé 265      Γöé 265   Γöé
+Γöé 22      Γöé 'Immersive hub category wise - Brands NCR '      Γöé 'SUCCESS' Γöé 378      Γöé 378   Γöé
+Γöé 23      Γöé 'IH - Tiles Brands (Morbi, GJ)'                  Γöé 'SUCCESS' Γöé 4        Γöé 4     Γöé
+Γöé 24      Γöé 'Brand Generic INDIA'                            Γöé 'SUCCESS' Γöé 29       Γöé 29    Γöé
+ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ

@@ -1,0 +1,38 @@
+﻿node : [eval]:1
+At line:1 char:1
++ node -e "require('dotenv').config({path:'serve
+r/.env'}); const pg = r ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([e 
+   val]:1:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandErro 
+   r
+ 
+require('dotenv').config({path:'server/.env'}); 
+const pg = require('pg'); async function main() 
+{ const pool = new pg.Pool({connectionString: 
+process.env.DATABASE_URL, 
+ssl:{rejectUnauthorized:false}}); const {rows: 
+mappingTest} = await pool.query(" SELECT 
+lead_type full_name company_name FROM leads 
+LIMIT 10 OFFSET 6580\);
+                                                
+                                                
+                                                
+                                                
+                                                
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Expected ',', got '<eof>'
+
+SyntaxError: Invalid or unexpected token
+    at makeContextifyScript 
+(node:internal/vm:194:14)
+    at compileScript 
+(node:internal/process/execution:388:10)
+    at evalTypeScript 
+(node:internal/process/execution:260:22)
+    at node:internal/main/eval_string:71:3
+
+Node.js v24.13.0

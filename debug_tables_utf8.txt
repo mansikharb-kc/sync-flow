@@ -1,0 +1,11 @@
+﻿[dotenv@17.3.1] injecting env (19) from server\.env -- tip: ΓÜÖ∩╕Å  load multiple .env files with { path: ['.env.local', '.env'] }
+Tables found in DB: [
+  'crm_records',
+  'crm_leads',
+  'zoho_config',
+  'users',
+  'otps',
+  'sync_logs',
+  'leads'
+]
+Total records in crm_leads: 6630

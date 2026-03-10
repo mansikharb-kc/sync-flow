@@ -1,0 +1,3 @@
+﻿[dotenv@17.3.1] injecting env (19) from server\.env -- tip: ΓÜÖ∩╕Å  override existing env vars with { override: true }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ≡ƒ¢á∩╕Å  run anywhere with `dotenvx run -- yourcommand`
+Checking "Database Brands & Architetcs " for emails hidden in Remarks column...

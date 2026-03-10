@@ -1,0 +1,33 @@
+﻿node : [eval]:1
+At line:1 char:85
++ ... 636c.json"; node -e "require('dotenv').con
+fig({path:'server/.env'});  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([e 
+   val]:1:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandErro 
+   r
+ 
+require('dotenv').config({path:'server/.env'}); 
+const { getSheetValues } = 
+require('./server/services/sheetService'); 
+async function main() { const data = await 
+getSheetValues(process.env.SPREADSHEET_ID, " All
+                                                
+                                                
+                                                
+                                                
+            ^^^^^
+Expected ',', got '<eof>'
+
+SyntaxError: Invalid or unexpected token
+    at makeContextifyScript 
+(node:internal/vm:194:14)
+    at compileScript 
+(node:internal/process/execution:388:10)
+    at evalTypeScript 
+(node:internal/process/execution:260:22)
+    at node:internal/main/eval_string:71:3
+
+Node.js v24.13.0

@@ -1,0 +1,44 @@
+﻿[dotenv@17.3.1] injecting env (19) from server\.env -- tip: ≡ƒñû agentic secret storage: https://dotenvx.com/as2
+Checking lead_type = brand...
+ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+Γöé (index) Γöé lead_type Γöé company_name                                              Γöé full_name                               Γöé
+Γö£ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöñ
+Γöé 0       Γöé 'brand'   Γöé '<test lead: dummy data for brand_/_company_name_......>' Γöé '<test lead: dummy data for full_name>' Γöé
+Γöé 1       Γöé 'brand'   Γöé 'Simpan ceramic'                                          Γöé 'Mj Patel'                              Γöé
+Γöé 2       Γöé 'brand'   Γöé 'Rollence Granito'                                        Γöé 'Abhishek Kadivar'                      Γöé
+Γöé 3       Γöé 'brand'   Γöé 'Trove tile studio'                                       Γöé 'Deepak kumar'                          Γöé
+Γöé 4       Γöé 'brand'   Γöé 'RUFON WALL CARE'                                         Γöé 'daniyal Sarfaraz'                      Γöé
+Γöé 5       Γöé 'brand'   Γöé 'Aditya doors'                                            Γöé 'Ankurbansal'                           Γöé
+Γöé 6       Γöé 'brand'   Γöé 'Armario'                                                 Γöé 'Davinder Sabharwal'                    Γöé
+Γöé 7       Γöé 'brand'   Γöé 'Casa creations'                                          Γöé 'Casa Creations - αñòαñ╛sa'                 Γöé
+Γöé 8       Γöé 'brand'   Γöé 'AV Architecture Studio'                                  Γöé 'Ar. Abhishek verma'                    Γöé
+Γöé 9       Γöé 'brand'   Γöé 'ANA'                                                     Γöé 'Shankar Singh'                         Γöé
+Γöé 10      Γöé 'brand'   Γöé 'ColorFlo'                                                Γöé 'Rahul Kapoor'                          Γöé
+Γöé 11      Γöé 'brand'   Γöé 'Eco Build Nexx'                                          Γöé 'Sanjay mathur'                         Γöé
+Γöé 12      Γöé 'brand'   Γöé 'I need the product'                                      Γöé 'DHARMENDER ARYA'                       Γöé
+Γöé 13      Γöé 'brand'   Γöé 'Natural stones world'                                    Γöé 'Anish'                                 Γöé
+Γöé 14      Γöé 'brand'   Γöé 'Lone paint shop'                                         Γöé 'interior designer'                     Γöé
+Γöé 15      Γöé 'brand'   Γöé 'Balsons paints'                                          Γöé 'Sahib Singh'                           Γöé
+Γöé 16      Γöé 'brand'   Γöé 'Seaqvn'                                                  Γöé 'Nitish Arora'                          Γöé
+Γöé 17      Γöé 'brand'   Γöé 'Maya inks'                                               Γöé 'Mukund Kishore'                        Γöé
+Γöé 18      Γöé 'brand'   Γöé 'Wonderwoods'                                             Γöé 'Aman'                                  Γöé
+Γöé 19      Γöé 'brand'   Γöé 'Will discuss'                                            Γöé 'Dishant Garg'                          Γöé
+ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+Total leads with lead_type = 'brand': 411
+
+Checking "Immersive hub category wise - Brands NCR" city mapping...
+ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+Γöé (index) Γöé lead_type Γöé city  Γöé full_name               Γöé
+Γö£ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöñ
+Γöé 0       Γöé 'brand'   Γöé 'NCR' Γöé 'daniyal Sarfaraz'      Γöé
+Γöé 1       Γöé 'brand'   Γöé 'NCR' Γöé 'Ankurbansal'           Γöé
+Γöé 2       Γöé 'brand'   Γöé 'NCR' Γöé 'Davinder Sabharwal'    Γöé
+Γöé 3       Γöé 'brand'   Γöé 'NCR' Γöé 'Casa Creations - αñòαñ╛sa' Γöé
+Γöé 4       Γöé 'brand'   Γöé 'NCR' Γöé 'Ar. Abhishek verma'    Γöé
+Γöé 5       Γöé 'brand'   Γöé 'NCR' Γöé 'Shankar Singh'         Γöé
+Γöé 6       Γöé 'brand'   Γöé 'NCR' Γöé 'Rahul Kapoor'          Γöé
+Γöé 7       Γöé 'brand'   Γöé 'NCR' Γöé 'Sanjay mathur'         Γöé
+Γöé 8       Γöé 'brand'   Γöé 'NCR' Γöé 'DHARMENDER ARYA'       Γöé
+Γöé 9       Γöé 'brand'   Γöé 'NCR' Γöé 'Anish'                 Γöé
+ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+Total records with City = 'NCR': 378

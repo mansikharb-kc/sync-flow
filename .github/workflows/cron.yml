@@ -1,0 +1,14 @@
+name: Google Sheet Sync
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # runs every 10 minutes
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call backend cron
+        run: |
+          curl -X GET https://sf-backend-y4it.onrender.com/cron-sync

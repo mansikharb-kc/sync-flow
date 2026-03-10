@@ -1,0 +1,32 @@
+﻿[dotenv@17.3.1] injecting env (19) from server\.env -- tip: ≡ƒ¢í∩╕Å auth for agents: https://vestauth.com
+Checking lead_type = brand...
+ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+Γöé (index) Γöé lead_type Γöé company_name Γöé full_name                     Γöé
+Γö£ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöñ
+Γöé 0       Γöé 'brand'   Γöé null         Γöé 'Gourav thakre'               Γöé
+Γöé 1       Γöé 'brand'   Γöé null         Γöé 'Ayushi Kabra'                Γöé
+Γöé 2       Γöé 'brand'   Γöé null         Γöé 'RAHUL YADAV'                 Γöé
+Γöé 3       Γöé 'brand'   Γöé null         Γöé 'C.K.Chengappa'               Γöé
+Γöé 4       Γöé 'brand'   Γöé null         Γöé 'AliAkbar Ismail Kathanawala' Γöé
+Γöé 5       Γöé 'brand'   Γöé null         Γöé 'Aadam Eesa & Co.'            Γöé
+Γöé 6       Γöé 'brand'   Γöé null         Γöé 'Ujjal Singh'                 Γöé
+Γöé 7       Γöé 'brand'   Γöé null         Γöé 'ar dnyanesh'                 Γöé
+Γöé 8       Γöé 'brand'   Γöé null         Γöé 'Varun'                       Γöé
+Γöé 9       Γöé 'brand'   Γöé null         Γöé 'Ωºüα╝ÆΓÖ¢VISHALΓÖ¢α╝ÆΩºé'                Γöé
+Γöé 10      Γöé 'brand'   Γöé null         Γöé 'Ar. Mitul Patel'             Γöé
+Γöé 11      Γöé 'brand'   Γöé null         Γöé 'Athul Satheesh'              Γöé
+Γöé 12      Γöé 'brand'   Γöé null         Γöé 'Shubhang Gupta'              Γöé
+Γöé 13      Γöé 'brand'   Γöé null         Γöé 'Nirmaan Edge'                Γöé
+Γöé 14      Γöé 'brand'   Γöé null         Γöé 'Karan kapoor'                Γöé
+Γöé 15      Γöé 'brand'   Γöé null         Γöé 'Aakar Swimming Pools'        Γöé
+Γöé 16      Γöé 'brand'   Γöé null         Γöé 'Akj_001'                     Γöé
+Γöé 17      Γöé 'brand'   Γöé null         Γöé 'solutiontree'                Γöé
+Γöé 18      Γöé 'brand'   Γöé null         Γöé 'Ayan'                        Γöé
+Γöé 19      Γöé 'brand'   Γöé null         Γöé 'Hassan'                      Γöé
+ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+
+Checking "Immersive hub category wise - Brands NCR" specifically...
+ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+Γöé (index) Γöé
+Γö£ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöñ
+ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ

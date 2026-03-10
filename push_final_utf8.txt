@@ -1,0 +1,29 @@
+﻿[dotenv@17.3.1] injecting env (20) from server\.env -- tip: ΓÜÖ∩╕Å  override existing env vars with { override: true }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ≡ƒôí add observability to secrets: https://dotenvx.com/ops
+≡ƒôí Initializing Pool with connectionString length: 115
+≡ƒÜÇ Phase 1: Syncing from main leads table to CRM staging...
+--- Syncing Leads to CRM Staging (Full Refresh) ---
+Processing 1 leads for staging...
+Γ£à Staging complete: 1 staged, 0 errors
+Γ£à Staging complete: 1 records staged.
+
+≡ƒÜÇ Phase 2: Pushing staged leads to Zoho CRM...
+--- Starting CRM Sync from Staging (Bulk Process) ---
+Pusing 1 leads to Zoho in chunks of 100...
+Sending payload to Zoho: [
+  {
+    "Last_Name": "Kharb",
+    "First_Name": "Mansi",
+    "Company": "Alloy Solutions Asia Ltd. (India",
+    "Email": "vancheswer@wpsindia.co.in",
+    "Phone": "4354251253",
+    "Mobile": "4354251253",
+    "City": "New Delhi",
+    "Lead_Source": "Other",
+    "Lead_Type": "Other"
+  }
+]
+
+≡ƒôè Push Results:
+Γ£à Success: 1
+Γ¥î Failed:  0

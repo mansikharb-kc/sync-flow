@@ -1,0 +1,22 @@
+﻿[dotenv@17.3.1] injecting env (19) from server\.env -- tip: ≡ƒ¢á∩╕Å  run anywhere with `dotenvx run -- yourcommand`
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ≡ƒöæ add access controls to secrets: https://dotenvx.com/ops
+Fetching 20 rows for: "Brand Leads"
+Row 2: AdName: [stone & marble] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 3: AdName: [stone & marble] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 4: AdName: [Rugs and carpet - AD] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 5: AdName: [stone & marble] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 6: AdName: [furniture & kitchen] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 7: AdName: [stone & marble] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 8: AdName: [furniture & kitchen] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 9: AdName: [Rugs and carpet - AD] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 10: AdName: [Rugs and carpet - AD] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 11: AdName: [Rugs and carpet - AD] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 12: AdName: [Rugs and carpet - AD] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 13: AdName: [stone & marble] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 14: AdName: [stone & marble] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 15: AdName: [stone & marble] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 16: AdName: [stone & marble] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 17: AdName: [furniture & kitchen] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 18: AdName: [furniture & kitchen] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 19: AdName: [furniture & kitchen] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]
+Row 20: AdName: [furniture & kitchen] | Campaign: [BRAND - Lead Generation] | CityCol: [N/A]

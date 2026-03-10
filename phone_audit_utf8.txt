@@ -1,0 +1,38 @@
+﻿[dotenv@17.3.1] injecting env (19) from server\.env -- tip: ΓÜÖ∩╕Å  suppress all logs with { quiet: true }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ≡ƒæÑ sync secrets across teammates & machines: https://dotenvx.com/ops
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ΓÜÖ∩╕Å  load multiple .env files with { path: ['.env.local', '.env'] }
+≡ƒôí Initializing Pool with connectionString length: 115
+--- Auditing Phone Numbers in Spreadsheet ---
+ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+Γöé (index) Γöé Sheet                                            Γöé Total Γöé MissingPhone Γöé Status Γöé
+Γö£ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöñ
+Γöé 0       Γöé 'All  Stakeholders'                              Γöé 331   Γöé 0            Γöé 'OK'   Γöé
+Γöé 1       Γöé 'All Stakeholders 2'                             Γöé 22    Γöé 0            Γöé 'OK'   Γöé
+Γöé 2       Γöé '66K Data testing (Nov, Dec)'                    Γöé 344   Γöé 0            Γöé 'OK'   Γöé
+Γöé 3       Γöé '66K Data testing (Jan, Feb)'                    Γöé 1706  Γöé 0            Γöé 'OK'   Γöé
+Γöé 4       Γöé 'Students & Architects'                          Γöé 236   Γöé 0            Γöé 'OK'   Γöé
+Γöé 5       Γöé 'Students NCR'                                   Γöé 96    Γöé 0            Γöé 'OK'   Γöé
+Γöé 6       Γöé 'Brand Lead New'                                 Γöé 104   Γöé 0            Γöé 'OK'   Γöé
+Γöé 7       Γöé 'Brand Leads'                                    Γöé 1565  Γöé 0            Γöé 'OK'   Γöé
+Γöé 8       Γöé 'Old brand leads'                                Γöé 3     Γöé 0            Γöé 'OK'   Γöé
+Γöé 9       Γöé 'Are you a Brand'                                Γöé 1     Γöé 0            Γöé 'OK'   Γöé
+Γöé 10      Γöé '11 Event Architects & Designers'                Γöé 61    Γöé 0            Γöé 'OK'   Γöé
+Γöé 11      Γöé 'Database Brands & Architetcs'                   Γöé 709   Γöé 0            Γöé 'OK'   Γöé
+Γöé 12      Γöé 'AceTech Lead'                                   Γöé 24    Γöé 0            Γöé 'OK'   Γöé
+Γöé 13      Γöé 'Architects & Designer INDIA'                    Γöé 22    Γöé 0            Γöé 'OK'   Γöé
+Γöé 14      Γöé 'Architects & Designers INDIA 2'                 Γöé 89    Γöé 0            Γöé 'OK'   Γöé
+Γöé 15      Γöé 'Catelogue Library NCR - Architects & Designers' Γöé 6     Γöé 0            Γöé 'OK'   Γöé
+Γöé 16      Γöé 'Immersive hub NCR - Architects & Designers'     Γöé 26    Γöé 0            Γöé 'OK'   Γöé
+Γöé 17      Γöé 'Co-working Space NCR - Architects & Designers'  Γöé 7     Γöé 0            Γöé 'OK'   Γöé
+Γöé 18      Γöé 'Students NCR 2'                                 Γöé 13    Γöé 0            Γöé 'OK'   Γöé
+Γöé 19      Γöé 'Brand & Architects - INDIA (Immersive Hub)'     Γöé 13    Γöé 0            Γöé 'OK'   Γöé
+Γöé 20      Γöé 'Catalogue Library - Brands (NCR)'               Γöé 581   Γöé 0            Γöé 'OK'   Γöé
+Γöé 21      Γöé 'Immersive Hub - Brands (NCR)'                   Γöé 300   Γöé 36           Γöé 'OK'   Γöé
+Γöé 22      Γöé 'Immersive hub category wise - Brands NCR'       Γöé 378   Γöé 0            Γöé 'OK'   Γöé
+Γöé 23      Γöé 'IH - Tiles Brands (Morbi, GJ)'                  Γöé 4     Γöé 0            Γöé 'OK'   Γöé
+Γöé 24      Γöé 'Brand Generic INDIA'                            Γöé 29    Γöé 0            Γöé 'OK'   Γöé
+ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+
+Grand Total Rows: 6670
+Grand Total Missing Phone: 36
+Coverage: 99.46%

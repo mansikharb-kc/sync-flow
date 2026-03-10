@@ -1,0 +1,134 @@
+﻿[dotenv@17.3.1] injecting env (19) from server\.env -- tip: ≡ƒ¢í∩╕Å auth for agents: https://vestauth.com
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ≡ƒöä add secrets lifecycle management: https://dotenvx.com/ops
+
+--- Headers for: "All  Stakeholders" ---
+[
+  "id",
+  "created_time",
+  "ad_id",
+  "ad_name",
+  "adset_id",
+  "adset_name",
+  "campaign_id",
+  "campaign_name",
+  "form_id",
+  "form_name",
+  "is_organic",
+  "platform",
+  "select_your_category.",
+  "full_name",
+  "phone",
+  "email",
+  "lead_status"
+]
+
+--- Headers for: "66K Data testing (Nov, Dec) " ---
+[
+  "id",
+  "created_time",
+  "ad_id",
+  "ad_name",
+  "adset_id",
+  "adset_name",
+  "campaign_id",
+  "campaign_name",
+  "form_id",
+  "form_name",
+  "is_organic",
+  "platform",
+  "full_name",
+  "phone_number",
+  "email",
+  "lead_status"
+]
+
+--- Headers for: "All Stakeholders 2" ---
+[
+  "id",
+  "created_time",
+  "ad_id",
+  "ad_name",
+  "adset_id",
+  "adset_name",
+  "campaign_id",
+  "campaign_name",
+  "form_id",
+  "form_name",
+  "is_organic",
+  "platform",
+  "select_your_category.",
+  "please_specify_your_profession_",
+  "full_name",
+  "phone",
+  "email",
+  "city",
+  "lead_status",
+  "Lead Quality / Remarks"
+]
+
+--- Headers for: "AceTech Lead" ---
+[
+  "id",
+  "created_time",
+  "ad_id",
+  "ad_name",
+  "adset_id",
+  "adset_name",
+  "campaign_id",
+  "campaign_name",
+  "form_id",
+  "form_name",
+  "is_organic",
+  "platform",
+  "company_/_brand_name",
+  "full_name",
+  "phone",
+  "email",
+  "job_title",
+  "lead_status",
+  "Lead Quality / Remarks"
+]
+
+--- Headers for: "Brand & Architects - INDIA (Immersive Hub)" ---
+[
+  "id",
+  "created_time",
+  "ad_id",
+  "ad_name",
+  "adset_id",
+  "adset_name",
+  "campaign_id",
+  "campaign_name",
+  "form_id",
+  "form_name",
+  "is_organic",
+  "platform",
+  "are_you_...",
+  "full_name",
+  "phone",
+  "email",
+  "city",
+  "lead_status",
+  "Lead Quality / Remarks"
+]
+
+--- Headers for: "Database Brands & Architetcs " ---
+[
+  "id",
+  "created_time",
+  "ad_id",
+  "ad_name",
+  "adset_id",
+  "adset_name",
+  "campaign_id",
+  "campaign_name",
+  "form_id",
+  "form_name",
+  "is_organic",
+  "platform",
+  "full_name",
+  "phone",
+  "email",
+  "lead_status",
+  "Lead Quality / Remarks"
+]
