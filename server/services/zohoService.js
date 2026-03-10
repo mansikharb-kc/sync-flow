@@ -10,6 +10,10 @@ const CLIENT_ID = process.env.ZOHO_CLIENT_ID;
 const CLIENT_SECRET = process.env.ZOHO_CLIENT_SECRET;
 const REDIRECT_URI = process.env.ZOHO_REDIRECT_URI || 'http://localhost:5000/api/zoho/callback';
 
+if (!CLIENT_ID || !CLIENT_SECRET) {
+    console.warn('⚠️ CRITICAL: ZOHO_CLIENT_ID or ZOHO_CLIENT_SECRET is missing from environment variables.');
+}
+
 /**
  * Ensures database table for storing Zoho Tokens exists
  */
@@ -59,7 +63,7 @@ const getAccessToken = async () => {
     }
 
     // 4. Refresh Token Logic
-    console.log('🔄 Refreshing Zoho Access Token...');
+    console.log(`🔄 Refreshing Zoho Access Token using domain: ${ACCOUNTS_URL}...`);
     try {
         const params = new URLSearchParams();
         params.append('refresh_token', config.refresh_token);
@@ -108,6 +112,9 @@ const generateTokens = async (grantToken) => {
         const params = new URLSearchParams();
         params.append('code', grantToken);
         params.append('redirect_uri', REDIRECT_URI);
+        if (!CLIENT_ID || !CLIENT_SECRET) {
+            throw new Error('MISSING_ZOHO_CREDENTIALS: ZOHO_CLIENT_ID and ZOHO_CLIENT_SECRET must be set in environment.');
+        }
         params.append('client_id', CLIENT_ID);
         params.append('client_secret', CLIENT_SECRET);
         params.append('grant_type', 'authorization_code');
