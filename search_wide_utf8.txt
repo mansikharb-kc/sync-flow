@@ -1,4 +1,0 @@
-﻿[dotenv@17.3.1] injecting env (19) from server\.env -- tip: ≡ƒöÉ prevent committing .env to code: https://dotenvx.com/precommit
-[dotenv@17.2.3] injecting env (0) from .env -- tip: ≡ƒæÑ sync secrets across teammates & machines: https://dotenvx.com/ops
-Found "Sangay Dubo" in Sheet: [Database Brands & Architetcs ] at Row: 118
-Row Data: ["l:1005281895111800","2025-11-10T06:25:03+05:30","ag:120235804784550373","img_brand_visibility","as:120235803266350373","brand_showcase/visibility/launch","c:120235730497890373","Lead_Database_07-nov-2025","f:2750603111776825","Database_brands&architects_07-nov-2025","false","fb","Sangay Dubo","p:+919593788277","","CREATED"]

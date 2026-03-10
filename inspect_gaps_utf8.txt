@@ -1,3 +1,0 @@
-﻿[dotenv@17.3.1] injecting env (19) from server\.env -- tip: ≡ƒ¢í∩╕Å auth for agents: https://vestauth.com
-[dotenv@17.2.3] injecting env (0) from .env -- tip: ≡ƒ¢á∩╕Å  run anywhere with `dotenvx run -- yourcommand`
---- Checking Sheet: Database Brands & Architetcs  ---
